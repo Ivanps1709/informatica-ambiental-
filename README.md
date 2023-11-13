@@ -2,5 +2,5 @@
 # ¿Que es la contaminacion ambiental?
 
 1. [¿Que es la contaminacion ambiental?](contaminacion.md)
-2. Residuos informaticos
-3. Obsolescencia programada e informática ecológica 
+2. [Residuos informaticos](residuos.md)
+3. [Obsolescencia programada e informática ecológica](obsolencia.md)
