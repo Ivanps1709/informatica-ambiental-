@@ -1,1 +1,1 @@
-
+La contaminacion ambiental en el ambito de la informatica se refiere a los impactos negativos que la produccion, el uso y la eliminacion de dispositivos electronicos causa en el medio ambiente. En este ambito se incluyen su fabricacion, el alto consumo de energia en el centro de datos, la generacion de residuos toxicos y la contribucion de gases de efecto invernadero. El reciclaje de dispositivos, la eficiencia energetica y la practica sostenible son esenciales para erradicar este problema. 
