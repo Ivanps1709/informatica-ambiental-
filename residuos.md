@@ -1,1 +1,1 @@
-
+Los desechos informaticos se refieren a los productos electronicos descartados al llegar al final de su vida. Esto es una preocupacion ambiental significativa debido a la presencia de sustancias toxicas en muchos de estos dispositvos, como metales pesados y productos quimicos peligrosos. Para finalizar este problema seria necesario una gestion de los residuos implantada en el acto del reciclaje y disposicion segura para evitar el daño tanto del agua como del suelo ademas del perjuicio humano.  
